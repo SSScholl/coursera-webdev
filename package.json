@@ -5,7 +5,7 @@
     "author": "Michael Scholl <mls2scholl@gmail.com>",
     "contributors": [],
     "dependencies": {
-        "browser-sync": "^1.0.4",
+        "browser-sync": "^2.26.14",
         "uglify-js": "^3.12.7"
     },
     "repository": {
