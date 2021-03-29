@@ -1,0 +1,2 @@
+Start the server with the below command
+.\node_modules\.bin\browser-sync start --server --directory --files "*"

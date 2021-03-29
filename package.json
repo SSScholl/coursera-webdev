@@ -1,0 +1,17 @@
+{
+    "name": "coursera-webdev",
+    "description": "Coursera Project Site",
+    "homepage": "https://ssscholl.github.io/coursera-webdev/",
+    "author": "Michael Scholl <mls2scholl@gmail.com>",
+    "contributors": [],
+    "dependencies": {
+        "browser-sync": "^1.0.4",
+        "uglify-js": "^3.12.7"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "version": "1.0.0",
+    "license": "GNU General Public License"
+}
